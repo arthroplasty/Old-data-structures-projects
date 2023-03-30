@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yzhang4/CPSC223/HW7/collection.h
+vector
+-
+
+/home/yzhang4/CPSC223/HW7/hash_table_collection.h
+vector
+-
+algorithm
+-
+functional
+-
+collection.h
+/home/yzhang4/CPSC223/HW7/collection.h
+
+/home/yzhang4/CPSC223/HW7/hw7_tests.cpp
+iostream
+-
+string
+-
+assert.h
+-
+gtest/gtest.h
+-
+algorithm
+-
+hash_table_collection.h
+/home/yzhang4/CPSC223/HW7/hash_table_collection.h
+

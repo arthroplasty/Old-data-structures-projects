@@ -1,0 +1,4 @@
+/home/yzhang4/CPSC223/HW3/CMakeFiles/edit_cache.dir
+/home/yzhang4/CPSC223/HW3/CMakeFiles/hw3perf.dir
+/home/yzhang4/CPSC223/HW3/CMakeFiles/rebuild_cache.dir
+/home/yzhang4/CPSC223/HW3/CMakeFiles/hw3test.dir

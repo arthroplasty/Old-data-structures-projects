@@ -1,0 +1,4 @@
+/home/yzhang4/CPSC223/hw11/CMakeFiles/edit_cache.dir
+/home/yzhang4/CPSC223/hw11/CMakeFiles/rebuild_cache.dir
+/home/yzhang4/CPSC223/hw11/CMakeFiles/hw11perf.dir
+/home/yzhang4/CPSC223/hw11/CMakeFiles/hw11test.dir

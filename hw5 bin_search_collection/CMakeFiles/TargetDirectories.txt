@@ -1,0 +1,4 @@
+/home/yzhang4/CPSC223/HW5/CMakeFiles/rebuild_cache.dir
+/home/yzhang4/CPSC223/HW5/CMakeFiles/hw5perf.dir
+/home/yzhang4/CPSC223/HW5/CMakeFiles/edit_cache.dir
+/home/yzhang4/CPSC223/HW5/CMakeFiles/hw5test.dir

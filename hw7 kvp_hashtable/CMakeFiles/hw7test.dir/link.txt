@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/hw7test.dir/hw7_tests.cpp.o  -o hw7test -rdynamic -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 

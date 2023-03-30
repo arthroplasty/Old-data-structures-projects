@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/hw3test.dir/hw3_tests.cpp.o  -o hw3test -rdynamic -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 
